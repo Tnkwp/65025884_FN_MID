@@ -1,0 +1,67 @@
+.Box{
+    width: 1441px;
+    height: 1024px;
+    background-color: beige;
+}
+.box1{
+    height: 162px;
+}
+.pi{
+    margin-left: 240px;
+    float: left;
+}
+.Box2{
+    float: left;
+    background-color: aquamarine;
+    width: 491px;
+    height: 700px;
+}
+.header{
+  color: black;
+  margin-left: 150px;
+  margin-top: 20px;
+  font-size: 30px;
+}
+.em{
+    margin-left: 85px;
+    width: 290px;
+    height: 50px;
+    
+}
+.pw{
+    margin-left: 85px;
+    width: 290px;
+    height: 70px;
+}
+.button {
+  background-color: #7a817a;
+  border: none;
+  color: white;
+  padding: 15px 150px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin-left: 85px;
+  cursor: pointer;
+  border-radius: 4px;
+}
+.lg{
+    margin-left: 200px;
+    width: 290px;
+    height: 70px;
+    color: #909790;
+}
+.button2 {
+    background-color: #7a817a;
+    border: none;
+    color: white;
+    padding: 15px 150px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin-left: 85px;
+    cursor: pointer;
+    border-radius: 4px;
+  }
